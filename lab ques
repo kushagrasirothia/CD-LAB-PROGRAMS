@@ -1,0 +1,2 @@
+Write a LEX program to recognize and count the number of identifiers, operators and keywords in a given input file
+write lex program to replace printf by writef and scanf by readf. input to be read from file and output to be stored in a file
